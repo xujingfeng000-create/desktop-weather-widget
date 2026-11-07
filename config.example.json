@@ -1,0 +1,11 @@
+{
+  "city": "湛江",
+  "lat": 21.2339,
+  "lon": 110.3875,
+  "alpha": 0.93,
+  "margin_x": 16,
+  "margin_y": 16,
+  "refresh_minutes": 10,
+  "topmost": true,
+  "position": null
+}
