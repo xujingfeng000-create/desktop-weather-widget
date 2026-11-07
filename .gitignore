@@ -1,0 +1,13 @@
+# Runtime state (auto-generated on first run)
+config.json
+autostart.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.lnk
